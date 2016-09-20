@@ -12,6 +12,7 @@ Curso de seo
 <meta name="robots" content="index, follow">
 
 ```
+#keywords
 **keywords**
 menos de 3000 no
 tiene que haber un equilibrio
