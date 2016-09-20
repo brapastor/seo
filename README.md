@@ -16,6 +16,8 @@ Curso de seo
 * el title tiene que tener máximo 65 letras
 * cuanto mas palabras pongas es perjudicial, porque el peso de seo se repartira entre las palabras 1 palabra el peso sera 100%
 * se recomienda 6 a 8 palabras 
+* se puede poner dos titulos separados con la barra verical | 
+* En el título poner las keywords
 
 
 #keywords
