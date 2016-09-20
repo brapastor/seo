@@ -12,7 +12,10 @@ Curso de seo
 <meta name="robots" content="index, follow">
 
 ```
-
+**keywords**
+menos de 3000 no
+tiene que haber un equilibrio
+mas de 50000 no
 **Dominio**
 Nombre de dominio es muy importante
-    corto, facil de recordar
+    corto, fácil de recordar
