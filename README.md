@@ -14,9 +14,9 @@ Curso de seo
 ```
 #keywords
 **keywords**
-1. menos de 3000 no
-2. tiene que haber un equilibrio
-3. mas de 50000 no
+* menos de 3000 no
+* tiene que haber un equilibrio
+* mas de 50000 no
 **Dominio**
 * Nombre de dominio es muy importante
 * corto, fácil de recordar
