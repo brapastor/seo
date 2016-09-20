@@ -23,7 +23,7 @@ Curso de seo
 
 #keywords
 * Página de referencia
-[Con titulo](https://kwfinder.com/"/kwfinder")
+[kwfinder.com](https://kwfinder.com/"/kwfinder")
 **keywords**
 * menos de 3000 no
 * tiene que haber un equilibrio
