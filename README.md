@@ -30,4 +30,17 @@ Curso de seo
 * mas de 50000 no
 **Dominio**
 * Nombre de dominio es muy importante
-* corto, fácil de recordar
+* Corto, fácil de recordar
+**Meta description y title**
+* Todas las páginas deben de tener un meta description y un title
+* Poner en todas las paginas un meta description y title, estos deben ser diferentes en todas las páginas
+* Los keywords se ponen en el title, meta description, contenido y los h1 h2 h3 h4 h5 h6 (etiquetas de encabezado)
+**Contenido**
+* El contenido tiene que ser 3% del contenido con respecto a las palabras claves
+* Ej: De 100 palabras solo 3 serian los Keywords
+* El contenido tiene que haber mas de 1000 palabras
+ 
+
+**Meta keywords**
+* En los meta keywords se separan por comas
+* Escribir como la gente habla
