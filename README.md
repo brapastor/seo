@@ -48,6 +48,18 @@ Curso de seo
 * en las imagenes poner un nombre descriptivo.
 * Nombres separados por guiones.
 
+#Resumen keywords 
+* Title
+* Metas description
+* meta keywords 
+* h1, h2, h3, h4, h5
+* url
+* contenido
+* multimedia (img,video)
+
+#Meta Robots
+* follow poner en todas las páginas
+
  
 
 **Meta keywords**
