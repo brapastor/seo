@@ -21,7 +21,7 @@ Curso de seo
 * En el título las primeras palabras tienen más peso
 
 
-#keywords
+#keywords (Consejos)
 * Página de referencia
 [kwfinder.com](https://kwfinder.com/"/kwfinder")
 **keywords**
@@ -39,6 +39,15 @@ Curso de seo
 * El contenido tiene que ser 3% del contenido con respecto a las palabras claves
 * Ej: De 100 palabras solo 3 serian los Keywords
 * El contenido tiene que haber mas de 1000 palabras
+**Url**
+* Agregar las keywords en la url
+* Las url no deben tener guiones bajos (_)
+* Se separa con guiones (-)
+* Las url tienen que ser palabras
+**En Elementos multimedia img, video**
+* en las imagenes poner un nombre descriptivo.
+* Nombres separados por guiones.
+
  
 
 **Meta keywords**
