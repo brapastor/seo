@@ -107,5 +107,13 @@ Curso de seo
 # Google analytics
 * permanencia en la tu página truco de artículo en esquina
 
+# Porgramar publicaciones automaticamente twitter y facebook - backlink
+* https://buffer.com 
+* https://tweetdeck.twitter.com/
+* facebook en el boton de programar
+* Tener un calendario y horario fijo de publicación
+* En cada publicación incluir en enlace de tu página.
+
+
  
 
