@@ -100,7 +100,12 @@ Curso de seo
 * Ver referentes de marketing online de los formularios de contacto
 * Gramática y ortografía afecta al seo
 
+* Servidor debe de estar mas cerca de tus visitantes 
+* Como saber si mi ip de servidor esta en una lista negra https://www.blacklistmaster.com/
 
+
+# Google analytics
+* permanencia en la tu página truco de artículo en esquina
 
  
 
