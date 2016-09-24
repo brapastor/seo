@@ -95,6 +95,8 @@ Curso de seo
 * Incluir videos, imagenes y referencias.
 * Estructura de la página, google análiza de arriba abajo y de izquierda a derecha
 * Truco seo que el nav este despues de contenido de la página (hacerlos con flexbox), importa mucho la estructura html
+* Arquitectura de directorios. De la url mientras mas cerca este de la raiz es mejor para el seo
+* Agregar en página web términos de uso y contactenos(soporte)
 
 
 
