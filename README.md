@@ -1,5 +1,6 @@
 # seo
 Curso de seo
+*Página de análisis https://www.woorank.com/es
 
 #Metas
 **Meta Description**
@@ -61,7 +62,38 @@ Curso de seo
 * follow poner en todas las páginas
 
  
-
 **Meta keywords**
 * En los meta keywords se separan por comas
 * Escribir como la gente habla
+
+#Robots
+*Paginas que quieres que google acceda y los que no acceda 
+*https://goo.gl/kRLSLJ
+*http://www.emezeta.com/articulos/robots-txt-todo-lo-que-deberia-saber
+*https://www.google.com/webmasters/tools/other-links-sc?hl=es
+
+#Site-map
+*Que hay en mi pagina es en xml 
+*[https://support.google.com/webmasters/answer/183668?hl=es](https://support.google.com/webmasters/answer/183668?hl=es/"/https://support.google.com/webmasters/answer/183668?hl=es")
+* Todas las páginas que quieres que google indexe
+
+
+#Validacion w3c
+*https://validator.w3.org/ 
+*Validar el css y html de todas las páginas
+
+#Consejos 
+* uso de cached del servidor
+* no usar stylos inline style
+* No tener muchos ficheros css y js
+* Separa los archivos css y js (base y para cada html) se optimiza la carga, usar el que necesita
+* Que la url www redireccione tupagina.com www.tupagina.com 
+* Tener Links internos y externos que sean de prestigio
+* Backlinks (Páginas que apuntan a tu página)
+* Los links con descripción (mejor si esta incluida las keywords) tienen mas valor. 
+* Que tengas siempre actualizando información nueva o secciones nuevas
+* Incluir videos, imagenes y referencias.
+
+
+ 
+
