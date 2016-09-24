@@ -84,7 +84,7 @@ Curso de seo
 
 #Consejos 
 * uso de cached del servidor
-* no usar stylos inline style
+* no usar estylos inline style
 * No tener muchos ficheros css y js
 * Separa los archivos css y js (base y para cada html) se optimiza la carga, usar el que necesita
 * Que la url www redireccione tupagina.com www.tupagina.com 
@@ -93,6 +93,9 @@ Curso de seo
 * Los links con descripción (mejor si esta incluida las keywords) tienen mas valor. 
 * Que tengas siempre actualizando información nueva o secciones nuevas
 * Incluir videos, imagenes y referencias.
+* Estructura de la página, google análiza de arriba abajo y de izquierda a derecha
+* Truco seo que el nav este despues de contenido de la página (hacerlos con flexbox), importa mucho la estructura html
+
 
 
  
