@@ -11,4 +11,15 @@
 # optimización de imagenes
 # Seguridad en servidor https ssh
 # Responsive design
+# Colores
+* http://www.circulocromatico.org/
+* https://color.adobe.com/
+* verde: alegría, frescura
+* amarillo: Energia, alegría
+* naranja: lo mismo que amarillo, con advertencia
+* Violeta: alegancia
+* Azules: tranquilidad, paz
+* Marrones: Solides
+* Turqueza: tranquilida, paz
+* Blanco: tranquilidad.
 
