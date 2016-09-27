@@ -23,3 +23,18 @@
 * Turqueza: tranquilida, paz
 * Blanco: tranquilidad.
 
+# Tipografía
+* Para leer tiene que ser tipo de palo seco
+* Titulos con romanas y caligráficas
+
+# Iconografia
+* https://icomoon.io/app/
+
+# Mockup
+* https://ninjamock.com/
+
+# Leyes fotográficas
+* Tres tercios https://goo.gl/FdhX2G
+* Doble horizonte https://goo.gl/CTCpo2
+
+
