@@ -36,5 +36,15 @@
 # Leyes fotográficas
 * Tres tercios https://goo.gl/FdhX2G
 * Doble horizonte https://goo.gl/CTCpo2
+* Angulos https://goo.gl/sJJ0LY
+    - Cenital (Total vulnerabilidad, panorámico)
+    - Picado (inferioridad, vulnerable, frágil)
+    - Normal 
+    - Contrapicado (seguridad,, tenacidad)
+    - Nadir
+* Planos https://goo.gl/VIFU1h     
+
+ 
+
 
 
