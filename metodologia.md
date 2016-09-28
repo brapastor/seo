@@ -27,7 +27,12 @@
 # Recursos
 * Reunir los recursos disponibles desde el inicio, proporcionados por el cliente, como imagenes, logo, BD, fuentes, colores coorporativo, etc.
 
-
+# TimeLine
+* Marca las fechas en las que deberá estar lista la primera versión inicial y la publicación de la versión denifitiva.
+* Nunca expliques al cliente tu trabajo interno.
+* Planear una fecha, fecha de prueba y fecha final.
+* Decir el doble de tiempo que tu terminaras el trabajo: por si se presentan imprevistos.
+* Criterio profesional.
 
 
 
