@@ -91,6 +91,16 @@
 * Para títulos, parrafos, subtitulos.
 * h1,h2,h3,h4,h5,h6
 
+## iconografía 
+* iconfonts :)
+* https://icomoon.io/app/#/select
+
+# Animaciones
+* Que impacto tendra en la ux y el efecto que deseas lograr.
+* hovers en botones
+* Animaciones en general.
+
+
 
 
 
