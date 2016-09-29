@@ -1,4 +1,4 @@
-# Reunion con el cliente # Metodología
+# 1. Reunion con el cliente # Metodología
 
 ### Definir proyecto
 * Entender sobre que trata el proyecto a través de una conversación franca con el cliente.
@@ -40,7 +40,7 @@
 * Si es algo rapido 1/3 del salario normal.
 * Si es personalizado el doble del salario normal.
 
-# Planificación.
+# 2. Planificación.
 ### Concetos iniciales.
 * Hacer un análisis preliminar y establecer conceptos iniciales a groso modo sin entrar en detalles.
 * Enumerar los aspectos mas generales (Pilares de la página).
@@ -71,7 +71,7 @@
 ### Mockup
 
 
-# Diseño
+#3. Diseño
 ### Paleta de colores
 * tres analogos y un complementario
 
@@ -117,7 +117,7 @@
 ### Plantillas
 * Mostrar al cliente 2 o 3 plantillas.
 
-# Desarrollo de la página
+# 4. Desarrollo de la página
 
      
     
