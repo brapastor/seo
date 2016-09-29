@@ -59,5 +59,48 @@
 
 ## Arquitectura.
 * Define la estructura que tendrá las web. Como se organizarán los contenidos en las diferentes secciones de navegación.
-    - Arquitectura de información (menu, )
+    - Arquitectura de información (menu)
+    
+## Layout - wireframes
+* Diseña como se presentarán los elementos de cada página en diferentes resoluciones de pantalla.
+* Elemetos que va haber en la página.
+* Diseño de la página en tres resoluciones.
+
+## UX 
+
+## Mockup
+
+
+# Diseño
+## Paleta de colores
+* tres analogos y un complementario
+
+## Logotipo
+
+## Areas Visuales
+* Hacer areas globales
+
+## Elemetos visuales
+* Botones
+* Imagenes
+* links
+* Formularios
+
+## Tipografía
+* Tienes que escoger una tipografía 
+* Para títulos, parrafos, subtitulos.
+* h1,h2,h3,h4,h5,h6
+
+
+
+
+
+
+
+
+
+
+
+
+  
  
